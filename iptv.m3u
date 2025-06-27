@@ -1,3 +1,10 @@
 #EXTM3U
+
 #EXTINF:-1 tvg-id="kanald.tr" tvg-name="Kanal D" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Kanal_D_logo.svg/512px-Kanal_D_logo.svg.png" group-title="Türkische Sender",Kanal D
 https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
+
+#EXTINF:-1 tvg-id="ahaber.tr" tvg-name="A HABER" tvg-logo="https://i.ibb.co/1X8nWHc/ahaber.png" group-title="Türkische Nachrichten",A HABER (Quelle 1)
+https://trkvz-live.ercdn.net/ahaberhd/ahaberhd.m3u8
+
+#EXTINF:-1 tvg-id="ahaber.tr" tvg-name="A HABER" tvg-logo="https://i.ibb.co/1X8nWHc/ahaber.png" group-title="Türkische Nachrichten",A HABER (Backup)
+https://b.fulltvizle.com/ahaber/playlist.m3u8
