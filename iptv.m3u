@@ -32,3 +32,7 @@ https://ciner-live.daioncdn.net/showtv/showtv.m3u8
 
 #EXTINF:-1 tvg-id="tv8.tr" tvg-name="TV8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TV8_logo.svg/512px-TV8_logo.svg.png" group-title="Türkische Sender",TV8
 https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8.m3u8
+
+#EXTINF:-1 tvg-id="atv.tr" tvg-name="ATV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Atv_logo.svg/512px-Atv_logo.svg.png" group-title="Türkische Sender",ATV
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_480p.m3u8
+
