@@ -1,38 +1,37 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="trthaber.tr" tvg-name="TRT HABER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/TRT_Haber_logo.svg/512px-TRT_Haber_logo.svg.png" group-title="Türkische Nachrichten",TRT HABER
+#EXTINF:-1 tvg-id="trthaber.tr" tvg-name="TRT HABER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/TRT_Haber_logo.svg/512px-TRT_Haber_logo.svg.png",TRT HABER
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-id="haberturk.tr" tvg-name="Habertürk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Habert%C3%BCrk_logo.svg/512px-Habert%C3%BCrk_logo.svg.png" group-title="Türkische Nachrichten",HABERTÜRK
+#EXTINF:-1 tvg-id="haberturk.tr" tvg-name="Habertürk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Habert%C3%BCrk_logo.svg/512px-Habert%C3%BCrk_logo.svg.png",HABERTÜRK
 https://ciner-live.daioncdn.net/haberturktv/haberturktv.m3u8
 
-#EXTINF:-1 tvg-id="haberglobal.tr" tvg-name="Haber Global" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Haber_Global_logo.svg/512px-Haber_Global_logo.svg.png" group-title="Türkische Nachrichten",HABER GLOBAL
+#EXTINF:-1 tvg-id="haberglobal.tr" tvg-name="Haber Global" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Haber_Global_logo.svg/512px-Haber_Global_logo.svg.png",HABER GLOBAL
 https://ensonhaber-live.ercdn.net/haberglobal/haberglobal.m3u8
 
-#EXTINF:-1 tvg-id="tgrthaber.tr" tvg-name="TGRT HABER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/TGRT_Haber_logo.svg/512px-TGRT_Haber_logo.svg.png" group-title="Türkische Nachrichten",TGRT HABER
+#EXTINF:-1 tvg-id="tgrthaber.tr" tvg-name="TGRT HABER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/TGRT_Haber_logo.svg/512px-TGRT_Haber_logo.svg.png",TGRT HABER
 https://tgrthaber-live.daioncdn.net/tgrthaber/tgrthaber.m3u8
 
-#EXTINF:-1 tvg-id="flashhaber.tr" tvg-name="Flash Haber" tvg-logo="https://i.ibb.co/yVrZJYz/flashhaber.png" group-title="Türkische Nachrichten",FLASH HABER
+#EXTINF:-1 tvg-id="flashhaber.tr" tvg-name="Flash Haber" tvg-logo="https://i.ibb.co/yVrZJYz/flashhaber.png",FLASH HABER
 https://flashhaber-live.ercdn.net/flashhaber/flashhaber.m3u8
 
-#EXTINF:-1 tvg-id="ahaber.tr" tvg-name="A HABER" tvg-logo="https://i.ibb.co/1X8nWHc/ahaber.png" group-title="Türkische Nachrichten",A HABER
+#EXTINF:-1 tvg-id="ahaber.tr" tvg-name="A HABER" tvg-logo="https://i.ibb.co/1X8nWHc/ahaber.png",A HABER
 https://b.fulltvizle.com/ahaber/playlist.m3u8
 
-#EXTINF:-1 tvg-id="turkhaber.tr" tvg-name="Türk Haber" tvg-logo="https://i.ibb.co/MpG65gS/turkhaber.png" group-title="Türkische Nachrichten",TÜRK HABER
+#EXTINF:-1 tvg-id="turkhaber.tr" tvg-name="Türk Haber" tvg-logo="https://i.ibb.co/MpG65gS/turkhaber.png",TÜRK HABER
 https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="kanald.tr" tvg-name="Kanal D" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Kanal_D_logo.svg/512px-Kanal_D_logo.svg.png" group-title="Türkische Sender",KANAL D
+#EXTINF:-1 tvg-id="kanald.tr" tvg-name="Kanal D" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Kanal_D_logo.svg/512px-Kanal_D_logo.svg.png",KANAL D
 https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
 
-#EXTINF:-1 tvg-id="starttv.tr" tvg-name="Start TV" tvg-logo="https://i.ibb.co/QYkJpdP/starttv.png" group-title="Türkische Sender",START TV
+#EXTINF:-1 tvg-id="starttv.tr" tvg-name="Start TV" tvg-logo="https://i.ibb.co/QYkJpdP/starttv.png",START TV
 https://live.cast-control.eu/StartMedia/StartMedia/playlist.m3u8
 
-#EXTINF:-1 tvg-id="showtv.tr" tvg-name="Show TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Show_TV_logo_2018.svg/512px-Show_TV_logo_2018.svg.png" group-title="Türkische Sender",SHOW TV
+#EXTINF:-1 tvg-id="showtv.tr" tvg-name="Show TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Show_TV_logo_2018.svg/512px-Show_TV_logo_2018.svg.png",SHOW TV
 https://ciner-live.daioncdn.net/showtv/showtv.m3u8
 
-#EXTINF:-1 tvg-id="tv8.tr" tvg-name="TV8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TV8_logo.svg/512px-TV8_logo.svg.png" group-title="Türkische Sender",TV8
+#EXTINF:-1 tvg-id="tv8.tr" tvg-name="TV8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TV8_logo.svg/512px-TV8_logo.svg.png",TV8
 https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8.m3u8
 
-#EXTINF:-1 tvg-id="atv.tr" tvg-name="ATV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Atv_logo.svg/512px-Atv_logo.svg.png" group-title="Türkische Sender",ATV
+#EXTINF:-1 tvg-id="atv.tr" tvg-name="ATV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Atv_logo.svg/512px-Atv_logo.svg.png",ATV
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_480p.m3u8
-
