@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="kanald.tr" tvg-name="Kanal D" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Kanal_D_logo.svg/512px-Kanal_D_logo.svg.png" group-title="Türkische Sender",Kanal D
+https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
