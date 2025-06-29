@@ -24,8 +24,8 @@ https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="kanald.tr" tvg-name="Kanal D" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Kanal_D_logo.svg/512px-Kanal_D_logo.svg.png",KANAL D
 https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
 
-#EXTINF:-1 tvg-id="starttv.tr" tvg-name="Start TV" tvg-logo="https://i.ibb.co/QYkJpdP/starttv.png",START TV
-https://live.cast-control.eu/StartMedia/StartMedia/playlist.m3u8
+#EXTINF:-1 tvg-id="startv.tr" tvg-name="Star TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Star_TV_logo_%282012%29.svg/512px-Star_TV_logo_%282012%29.svg.png",STAR TV
+http://dygvideo.dygdigital.com/live/hls/startv4puhu?m3u8
 
 #EXTINF:-1 tvg-id="showtv.tr" tvg-name="Show TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Show_TV_logo_2018.svg/512px-Show_TV_logo_2018.svg.png",SHOW TV
 https://ciner-live.daioncdn.net/showtv/showtv.m3u8
