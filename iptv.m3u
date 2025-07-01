@@ -38,3 +38,9 @@ https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Cnn
 
 #EXTINF:-1 tvg-id="atv.tr" tvg-name="ATV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Atv_logo.svg/512px-Atv_logo.svg.png",ATV
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_480p.m3u8
+
+#EXTINF:-1 tvg-id="beyaztv.tr" tvg-name="Beyaz TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Beyaz_TV_logo.svg/512px-Beyaz_TV_logo.svg.png",BEYAZ TV
+https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
+
+#EXTINF:-1 tvg-id="ntv.tr" tvg-name="NTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/NTV_Turkey_logo.svg/512px-NTV_Turkey_logo.svg.png",NTV
+http://dygvideo.dygdigital.com/live/hls/ntv4puhu?m3u8
