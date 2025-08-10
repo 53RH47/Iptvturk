@@ -47,3 +47,6 @@ http://dygvideo.dygdigital.com/live/hls/ntv4puhu?m3u8
 
 #EXTINF:-1 tvg-id="cnnturk.tr" tvg-name="CNN TÜRK" tvg-logo="https://i.ibb.co/JqWCczW/cnnturk1.png",CNN TÜRK (Backup)
 https://b.fulltvizle.com/cnn/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ahaber.tr" tvg-name="A HABER" tvg-logo="https://i.ibb.co/1X8nWHc/ahaber.png",A HABER
+https://trkvz-live.ercdn.net/ahaberhd/ahaberhd.m3u8
