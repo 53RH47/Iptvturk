@@ -18,14 +18,8 @@ https://flashhaber-live.ercdn.net/flashhaber/flashhaber.m3u8
 #EXTINF:-1 tvg-id="turkhaber.tr" tvg-name="Türk Haber" tvg-logo="https://i.ibb.co/MpG65gS/turkhaber.png",TÜRK HABER
 https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="kanald.tr" tvg-name="Kanal D" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Kanal_D_logo.svg/512px-Kanal_D_logo.svg.png",KANAL D
-https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
-
 #EXTINF:-1 tvg-id="startv.tr" tvg-name="Star TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Star_TV_logo_%282012%29.svg/512px-Star_TV_logo_%282012%29.svg.png",STAR TV
 http://dygvideo.dygdigital.com/live/hls/startv4puhu?m3u8
-
-#EXTINF:-1 tvg-id="showtv.tr" tvg-name="Show TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Show_TV_logo_2018.svg/512px-Show_TV_logo_2018.svg.png",SHOW TV
-https://ciner-live.daioncdn.net/showtv/showtv.m3u8
 
 #EXTINF:-1 tvg-id="tv8.tr" tvg-name="TV8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TV8_logo.svg/512px-TV8_logo.svg.png",TV8
 https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8.m3u8
@@ -43,8 +37,14 @@ https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
 http://dygvideo.dygdigital.com/live/hls/ntv4puhu?m3u8
 
 ###### Test #####
-#EXTINF:-1 tvg-id="cnnturk.tr" tvg-name="CNN TÜRK" tvg-logo="https://i.ibb.co/JqWCczW/cnnturk1.png",CNN TÜRK (Backup)
-https://tr.canlitv.watch/cnn-turk
+#EXTINF:-1 tvg-id="cnnturk.tr" tvg-name="CNN TÜRK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/CNN_T%C3%BCrk_logo.svg/512px-CNN_T%C3%BCrk_logo.svg.png",CNN TÜRK
+http://46.32.176.50/cnnturk/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ahaber.tr" tvg-name="A HABERrrr" tvg-logo="https://i.ibb.co/1X8nWHc/ahaber.png",A HABERrrr
 http://46.32.176.50/ahaber/playlist.m3u8
+
+#EXTINF:-1 tvg-id="kanald.tr" tvg-name="Kanal D" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Kanal_D_logo.svg/512px-Kanal_D_logo.svg.png",KANAL D
+https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3
+
+#EXTINF:-1 tvg-id="showtv.tr" tvg-name="Show TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Show_TV_logo_2018.svg/512px-Show_TV_logo_2018.svg.png",SHOW TV
+https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv.m3u8
