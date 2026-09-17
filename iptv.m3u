@@ -45,3 +45,6 @@ https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3
 
 #EXTINF:-1 tvg-id="showtv.tr" tvg-name="Show TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Show_TV_logo_2018.svg/512px-Show_TV_logo_2018.svg.png",SHOW TV
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv.m3u8
+
+#EXTINF:-1 tvg-id="cnnturk.tr" tvg-name="CNN TÜRKmz",CNN TÜRK VLC
+http://46.32.176.50/cnnturk/playlist.m3u8|User-Agent=Mozilla/5.0
